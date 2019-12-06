@@ -1,0 +1,8 @@
+# Laporan-TA-Full
+penelitian di kelurahan krapyak 
+PENERAPANG ALGORITMA NAIVE BAYES UNTUK PENENTUAN BANTUAN BEDAH RUMAH (RTLH) DI KELURAHAN KRAPYAK
+#Author
+Agus supriyanto
+G.231.15.0065
+
+
